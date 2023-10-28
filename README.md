@@ -9,6 +9,6 @@
 
 4. Select the address for the supplier of ProductID 40
 
-5. Create a SQL file and add you queries.
+5. Create a SQL file and add your queries.
 
 6. Upload SQL file to your GitHub respository and turn in your GitHub link to Google Classroom.
